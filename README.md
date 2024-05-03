@@ -1,11 +1,14 @@
-## UtilisingExcelAndTableau
-As part of the *JustIT Data Bootcamp* I completed an assessment report showcasing my newly learnt skills on **Microsft Excel** and **Tableau**.
-In the document included you can view my entire assessment report, this includes:
+## Utilising Excel And Tableau 📊💻
 <br>
-* A cover page
-* A contents page
-* An Excel task
-* A Tableau task with visualisations
-* A reflection of my progress
+### JustIT Data Bootcamp Assessment Report 
 <br>
-This assessment was completed early in my bootcamp course; displaying my skills as a learner.
+
+Welcome to my assessment report showcasing my newfound skills in Microsoft Excel and Tableau, completed as part of the JustIT Data Bootcamp! Here's what you'll find inside:
+<br>
+- **Cover Page** 📑: The first impression of my assessment report.
+- **Contents Page** 📄: Navigate through the document effortlessly.
+- **Excel Task** 📊: Demonstrating proficiency in Excel operations and data manipulation.
+- **Tableau Task with Visualizations** 📈: Exciting visual representations of data using Tableau.
+- **Reflection of My Progress** 🤔: Insights into my journey and growth throughout the assessment.
+
+This assessment was a pivotal moment at the start of my bootcamp journey, marking my development as a skilled learner. Dive in and explore the culmination of my hard work and dedication! 🌟
