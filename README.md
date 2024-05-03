@@ -13,3 +13,7 @@ Welcome to my assessment report showcasing my newfound skills in Microsoft Excel
 
 
 This assessment was a pivotal moment at the start of my bootcamp journey, marking my development as a skilled learner. Dive in and explore the culmination of my hard work and dedication! 🌟
+
+I have also included my **Tableau Dashboard** for this assignment 📈 as a seperate file :)
+
+Additionally [here is a link to my Tableau Public](https://public.tableau.com/app/profile/narmeen.mohammed/viz/WealthOfNations_assignment/TheWealthofNationsDataset)
